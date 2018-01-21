@@ -11,3 +11,4 @@ describe("Model", function() {
   it("should have a name", function() {
     assert.strictEqual(model.name, "Gin71");
   });
+});
